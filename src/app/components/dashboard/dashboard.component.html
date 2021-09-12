@@ -1,0 +1,19 @@
+<div class="dashboard">
+
+    <div class="board" >
+  
+        <div  class="project-list mat-elevation-z1" *ngFor="let proj of projects">
+            <div class="project">
+                <div class="title">
+                    {{proj.projectName}}
+                </div>
+                <div class="time">
+                    {{proj.totalTime}}
+                </div>
+                <div class="buttons">
+                    <button>Start</button>
+                    <button>Stop</button>
+                </div>
+            </div>
+
+</div>

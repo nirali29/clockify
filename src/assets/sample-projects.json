@@ -1,0 +1,12 @@
+[
+    {
+        "projectId": 10,
+        "projectName": "Project 1",
+        "totalTime": ""
+    },
+    {
+        "projectId": 11,
+        "projectName": "Project 2",
+        "totalTime": "1h 30m"
+    }
+]
